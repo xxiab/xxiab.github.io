@@ -1,7 +1,7 @@
 # Mia Botello's Portfolio
 
 
-I am a Kinesiology major at CSUF and will be graduating this Spring semester.
+Hello! My name Mia Botello. I'm a Kinesiology major at California State University, Fullerton and will be graduating this Spring semester.
 
 ## Favorite CPSC 120L Labs
 
